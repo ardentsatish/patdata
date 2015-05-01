@@ -9,11 +9,11 @@ Well, this post intends to get you started on using the blog. Currently, it's ho
 
 To add a post you need to go to [\_posts] (https://github.com/rsrihari/patdata/tree/master/_posts) directory in the repo, and use the '+' to add a new post. At the top of the new file you are writing, add a header similar to this:
 
-```markdown
+{% highlight markdown %}
 ---
 layout: post
 title: Adding content
 author: Srihari
 ---
-```
+{% endhightlight %}
 The 'layout' should always be post while you should take care of the other two. Add the rest of the content in Markdown. This is a good cheatsheet for quickly working with Markdown. After you are done, commit the changes (the procedures starting here are pretty straightforward).
