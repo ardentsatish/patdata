@@ -9,10 +9,10 @@ Well, this post intends to get you started on using the blog. Currently, it's ho
 
 To add a post you need to go to [\_posts] (https://github.com/rsrihari/patdata/tree/master/_posts) directory in the repo, and use the '+' to add a new post. At the top of the new file you are writing, add a header similar to this:
 
-{% highlight %}
+{% highlight md %}
 ---
 layout: post
-title: Adding Content
+title: Adding content
 author: Srihari
 ---
 {% endhighlight %}
