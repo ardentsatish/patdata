@@ -17,4 +17,4 @@ author: Srihari
 ---
 {% endhighlight %}
 
-The 'layout' should always be post while you should take care of the other two. Add the rest of the content in Markdown. This is a good cheatsheet for quickly working with Markdown. After you are done, commit the changes (the procedures starting here are pretty straightforward).
+The 'layout' should always be post while you should take care of the other two. Add the rest of the content in Markdown. There is a good [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for quickly working with Markdown by Adam Pritchard. After you are done, commit the changes (the procedures starting here are pretty straightforward).
