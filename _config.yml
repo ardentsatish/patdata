@@ -9,7 +9,7 @@ title:               Baap Data
 tagline:             Patel Data Group Blog
 url:                 http://rsrihari.github.io
 paginate:            1
-baseurl:             ""
+baseurl:             "/patdata"
 
 # Assets
 #
